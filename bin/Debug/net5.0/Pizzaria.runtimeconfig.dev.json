@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\enobre\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\enobre\\.nuget\\packages"
+    ]
+  }
+}
